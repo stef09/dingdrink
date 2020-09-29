@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "504455683399",
+    "firebase_url": "https://easy-271714.firebaseio.com",
+    "project_id": "easy-271714",
+    "storage_bucket": "easy-271714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504455683399:android:34e5f7292d1afbf75a0062",
+        "android_client_info": {
+          "package_name": "Gourdange.itcs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504455683399-g8pfda920mk7mu5icn0vknl2atvvfkd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHa7FAt3GqngcQISja2Ndyu_-i4DqjUl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504455683399-g8pfda920mk7mu5icn0vknl2atvvfkd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504455683399:android:1cc30e5399a7e1f65a0062",
+        "android_client_info": {
+          "package_name": "com.example.easy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504455683399-g8pfda920mk7mu5icn0vknl2atvvfkd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHa7FAt3GqngcQISja2Ndyu_-i4DqjUl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504455683399-g8pfda920mk7mu5icn0vknl2atvvfkd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
