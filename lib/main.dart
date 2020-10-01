@@ -23,7 +23,7 @@ import 'package:dingdrink/localize.dart';
 
 //bool globalOrdered = false;
 var globalPush;
-
+ 
 //begin test
 FirebaseMessaging firebaseMessaging = new FirebaseMessaging();
 FlutterLocalNotificationsPlugin flutterLocalNotificationsPlugin = new FlutterLocalNotificationsPlugin();
