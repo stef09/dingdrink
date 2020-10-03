@@ -1,7 +1,7 @@
 # This is a generated file; do not edit or check into version control.
-firebase_messaging=C:\\dvpt\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_messaging-5.1.8\\
-flutter_local_notifications=C:\\dvpt\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_local_notifications-1.4.4+1\\
-package_info=C:\\dvpt\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\package_info-0.4.1\\
-shared_preferences=C:\\dvpt\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences-0.5.7+3\\
-shared_preferences_macos=C:\\dvpt\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_macos-0.0.1+9\\
-shared_preferences_web=C:\\dvpt\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_web-0.1.2+7\\
+firebase_messaging=/home/stephane/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-5.1.8/
+flutter_local_notifications=/home/stephane/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications-1.4.4+1/
+package_info=/home/stephane/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/package_info-0.4.1/
+shared_preferences=/home/stephane/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.7+3/
+shared_preferences_macos=/home/stephane/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-0.0.1+9/
+shared_preferences_web=/home/stephane/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-0.1.2+7/
